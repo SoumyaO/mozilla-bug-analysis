@@ -1,0 +1,15 @@
+numpy
+pandas
+jupyter
+psycopg2-binary
+sqlalchemy<2.0.0
+pymongo
+beautifulsoup4
+requests
+pyspark
+matplotlib
+networkx
+tqdm
+seaborn
+squarify
+scipy
