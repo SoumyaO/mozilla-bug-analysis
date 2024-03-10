@@ -1,6 +1,6 @@
 # Mozilla Project Bug Analysis
 
-[Code](https://github.com/SoumyaO/mozilla-bug-analysis/tree/main/code) | [Report](https://github.com/SoumyaO/mozilla-bug-analysis/blob/main/Report_final%20coursework_SMM695_Group%209.pdf) | [ERD] (https://github.com/SoumyaO/mozilla-bug-analysis/blob/main/ERD.png)
+[Code](https://github.com/SoumyaO/mozilla-bug-analysis/tree/main/code) | [Report](https://github.com/SoumyaO/mozilla-bug-analysis/blob/main/Report_final%20coursework_SMM695_Group%209.pdf) | [ERD](https://github.com/SoumyaO/mozilla-bug-analysis/blob/main/ERD.png)
 
 
 ### Contributors
