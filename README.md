@@ -15,7 +15,7 @@
 The goal of this project was to store, manipulate and analyze bug data for the Mozilla project.
 
 ### Database design
-PostgreSQL and Python were used to clean and structure the bug data into a well defined database. The database was structured to contain all the bug reports in a *reports* table which is the primary table containing essential infformation containing each bug from the dataset. Users were assigned to another *users* table . A *changes history* table was used to keep track of historical modifications made to the bug reports. A *customer fields* table allows for storage of additional customer fields related to specific bug reports. A *flags table* has information about various flags in the bug reports whereas the *comments* table stores the comments and discussions made on specific bug reports.
+PostgreSQL and Python were used to clean and structure the bug data into a well defined database. The database was structured to contain all the bug reports in a *reports* table which is the primary table containing essential information about each bug from the dataset. Users were assigned to another *users* table . A *changes history* table was used to keep track of historical modifications made to the bug reports. A *customer fields* table allows for storage of additional customer fields related to specific bug reports. A *flags table* has information about various flags in the bug reports whereas the *comments* table stores the comments and discussions made on specific bug reports.
 
 These other four tables including changes_history, customer_fields, flags, and comments have their foreign key constraints established to reference the primary key (bug_id) in the reports table.
 
